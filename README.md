@@ -1,7 +1,7 @@
 
 # <p align="center">Inventory Management System</p> 
 
-### <p align="center">CS3120 - Database Management Systems Laboratory Course Project</p>
+### <p align="center">IT202 - Database Management Systems Course Project</p>
 
 ### Contributors
 
