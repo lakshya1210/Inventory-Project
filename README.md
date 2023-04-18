@@ -111,8 +111,7 @@ CREATE TABLE IF NOT EXISTS brand (
 CREATE TABLE IF NOT EXISTS category (
    category_id SERIAL PRIMARY KEY,
    category_name VARCHAR(50) NOT NULL,
-   parent_id INT REFERENCES category(category_id),
-   depth INT CHECK (depth >= 0)
+   parent_id INT REFERENCES category(category_id)
 );
 ```
 
