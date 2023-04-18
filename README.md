@@ -251,7 +251,7 @@ CREATE TABLE IF NOT EXISTS orders (
 
 
 
-## Procedures and Functions:
+## Procedures:
 
 We list **4** stored procedures.
 
